@@ -87,22 +87,26 @@ User → ADK Agent → MCP Tools → arXiv/Wikipedia → Paper Generation → St
 ## 🛠 Tech Stack
 
 🧠 Core AI / ML
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🤖 Generative AI & Agent Systems 
+
 ![Google ADK](https://img.shields.io/badge/Google%20ADK-Agent%20Systems-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-AI%20Model-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-000000?style=for-the-badge)
 
 ### 💻 Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 🌐 Backend & Systems
+
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloud Run](https://img.shields.io/badge/Cloud%20Run-Serverless-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Server%20Management-FCC624?style=for-the-badge&logo=linux&logoColor=black)
