@@ -1,5 +1,4 @@
-# Building intelligent systems that think, learn, and act 
-# From full-stack and blockchain to AI agents — still building, just smarter 👋
+# Building intelligent systems that think, learn, and act. From full-stack and blockchain to AI agents — still building, just smarter!
 
 **AI-Focused Software Engineer | MSc Artificial Intelligence (Germany)**  
 Building real-world AI systems, agent-based architectures, and scalable software solutions.
@@ -117,8 +116,11 @@ User → ADK Agent → MCP Tools → arXiv/Wikipedia → Paper Generation → St
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-[![Antigravity](https://shields.io)](https://antigravity.google/) 
+![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Dev%20Tool-4285F4?style=for-the-badge)
+![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-AI%20Development-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Dev%20Tool-4285F4?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
