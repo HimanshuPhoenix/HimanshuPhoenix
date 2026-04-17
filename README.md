@@ -10,7 +10,7 @@ Building real-world AI systems, agent-based architectures, and scalable software
 
 ## 🧠 About Me
 
-An engineer with 20+ years of experience evolving from full-stack and distributed systems into **Applied AI and Intelligent Systems**.
+An engineer with over *2 decades* of experience evolving from full-stack and distributed systems into **Applied AI and Intelligent Systems**.
 
 - 🔧 Built and deployed real-world software systems across domains  
 - 🤖 Now focused on **Machine Learning, Generative AI & Agentic Systems**  
